@@ -6,6 +6,7 @@ This project contains a Dockerized full-stack application with React frontend, D
 
 - Docker
 - Docker Compose
+- 
 
 ## Architecture
 
